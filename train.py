@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 
+import numpy as np
 import argparse
 import collections
 import pyro
 import torch
-import numpy as np
 import data_loader.data_loaders as module_data
 import model.loss as module_loss
 import model.metric as module_metric
