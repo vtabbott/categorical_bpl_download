@@ -1,4 +1,3 @@
-discopy
 pyro-api
 pyro-ppl
 lxml
