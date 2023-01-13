@@ -2,3 +2,4 @@ pyro-api
 pyro-ppl
 lxml
 pyvis
+tensorboardx
