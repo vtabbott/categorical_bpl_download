@@ -1,0 +1,3 @@
+Colab - get it set up there
+Focus on the custom project files
+~ appropriate conda environment
